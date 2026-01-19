@@ -30,5 +30,6 @@ public class Circle{
     Circle obj= new Circle();
     obj.calculateArea();
     obj.calculatePerimeter();
+    System.out.println("Color of the object is: "+obj.color);
   }
 }
